@@ -26,7 +26,7 @@ function App() {
     </div>
     <div className="sand-front"></div>
     <img src={logo} className="App-logo" alt="logo" />
-    <p className='coming-soon'>coming soon</p>
+    <p className='coming-soon'>Big waves are coming!<br/> be ready with your surf boards</p>
     </>
   )
 }
